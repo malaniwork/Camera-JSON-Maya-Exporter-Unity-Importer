@@ -2,7 +2,7 @@
 ***Maya to Unity - Camera JSON Maya Exporter & Unity Importer***
 by Maysam Al-Ani
 
-Github: 
+Github: https://github.com/malaniwork/Camera-JSON-Maya-Exporter-Unity-Importer
 Tool overview: https://www.malani.work/camera-exporter
 Tool demo (video): https://vimeo.com/723169999
 
