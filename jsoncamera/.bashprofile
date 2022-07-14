@@ -1,3 +1,0 @@
-export TDC_PYTHON="/Desktop/json"
-export PYTHONPATH="usr/local/bin:$TDC_PYTHON"
-
